@@ -69,6 +69,13 @@ const products = [
         price: "$199",
         image: "images/amazonheatlesscurls.jpg",
         link: "https://a.co/d/0hRcuktM"
+    },
+
+    {
+        name: "Espejo de pared",
+        price: "",
+        image: "images/amazonespejo.jpg",
+        link: "https://a.co/d/0h5mVYfo"
     }
 ];
 
